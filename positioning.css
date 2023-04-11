@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+}
+
+div {
+    font-size: xx-large;
+    border: 2px solid black;
+    text-align: center;
+    position: absolute;
+    /*display: inline;*/
+
+}
+
+.box1 {
+    background-color: royalblue;
+
+}
+
+.box2 {
+    background-color: forestgreen;
+
+}
+
+.box3 {
+    background-color: goldenrod;
+
+}
+
+.box4 {
+    background-color: indigo;
+    
+}
+
+.box5 {
+    background-color: palevioletred;
+    
+}
